@@ -8,8 +8,7 @@ requests==2.31.0
 beautifulsoup4==4.12.3
 validators==0.22.0
 python-whois==0.8.0
-ssl-checker==0.1.1
 Pillow==10.2.0
 opencv-python==4.9.0.80
-smtplib  # builtin, just noted
 email-validator==2.1.0.post1
+certifi==2024.2.2
