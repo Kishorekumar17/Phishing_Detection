@@ -16,4 +16,3 @@ matplotlib
 seaborn
 tldextract                                                                     
 joblib
-feature_extraction
