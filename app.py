@@ -6,7 +6,7 @@ import logging
 from feature_extraction import extract_features
 
 # Load the model
-model = joblib.load("model.pkl")
+model = joblib.load("phishing_model.pkl")
 
 # Set classification threshold
 THRESHOLD = 0.7  # Adjust as needed
